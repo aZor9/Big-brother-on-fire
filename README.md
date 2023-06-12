@@ -34,3 +34,26 @@ MAJ du 04/06/2023 :
 - ajout des mouvement du perso
 - modif des couleurs en fonction de la perte ou de la victoire
 - modif de la victoire : il faut que score = 20
+
+## Installer Pyxel 
+copié collé venant du github source : [Lien](https://github.com/kitao/pyxel/) <br>
+
+### Windows
+Après avoir installé [Python3](https://www.python.org/) (version 3.7 ou plus), lancez la commande suivante :
+```sh
+pip install -U pyxel 
+```
+Si vous installez Python à l'aide de l'installateur officiel, veuillez cocher la case `Add Python 3.x to PATH` pour activer la commande `pyxel`.
+### Mac
+Après avoir installé [Python3](https://www.python.org/) (version 3.7 ou plus), lancez la commande suivante :
+```sh
+python3 -m pip install -U pyxel
+```
+Si vous utilisez Python3, qui est installé par défaut sur Mac, veuillez ajouter `sudo` au début de la commande ci-dessus pour activer la commande `pyxel`.
+### Linux
+Après avoir installé le paquet SDL2 (`libsdl2-dev` pour Ubuntu), [Python3](https://www.python.org/) (version 3.7 ou plus), et `python3-pip`, lancez la commande suivante :
+```sh
+sudo pip3 install -U pyxel
+```
+Si ce qui précède ne fonctionne pas, essayez l'autoconstruction en suivant les instructions de [Makefile](../Makefile).
+
