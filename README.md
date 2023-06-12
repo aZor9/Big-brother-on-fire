@@ -36,7 +36,7 @@ MAJ du 04/06/2023 :
 - modif de la victoire : il faut que score = 20
 
 ## Installer Pyxel 
-copié/collé venant du github source : [Lien](https://github.com/kitao/pyxel/) <br><br><br>
+copié/collé venant du github source : [Lien](https://github.com/kitao/pyxel/) <br><br>
 
 ### Windows
 Après avoir installé [Python3](https://www.python.org/) (version 3.7 ou plus), lancez la commande suivante :
