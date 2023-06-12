@@ -1,6 +1,6 @@
-# Big-brother-on-fire
-Jeux crée pour la Nuit du code 2023
+# Big Brother On Fire
 
+Jeux crée lors la Nuit du code 2023 <br>
 
 ## Description :
 Vous jouez un astronaute qui essaye d'empêcher son vaisseau d'exploser alors qu'il traverse un champ d'astéroïdes.  <br>
@@ -57,3 +57,7 @@ sudo pip3 install -U pyxel
 ```
 Si ce qui précède ne fonctionne pas, essayez l'autoconstruction en suivant les instructions de [Makefile](../Makefile).
 
+## Créteurs :
+Imaginé et Crée par  :
+- GIORDANO Aedan
+- LEMBREZ Hugo
