@@ -57,7 +57,7 @@ sudo pip3 install -U pyxel
 ```
 Si ce qui précède ne fonctionne pas, essayez l'autoconstruction en suivant les instructions de [Makefile](../Makefile).
 
-## Créteurs :
+## Créateurs :
 Imaginé et Crée par  :
 - GIORDANO Aedan
 - LEMBREZ Hugo
